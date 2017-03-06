@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE xml>
+
+<configuration>
+	<host>localhost</host>
+	<port>27017</port>
+
+	<username></username>
+	<password></password>
+
+	<databaseName>event_repo</databaseName>
+	<collectionName>events</collectionName>
+</configuration>

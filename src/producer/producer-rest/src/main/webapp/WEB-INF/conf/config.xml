@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE xml>
+
+<configuration>
+	<eventEndpoint>http://localhost:8080/consumer-rest/event</eventEndpoint>
+	<queueConsumerThreads>2</queueConsumerThreads>
+	<queueConsumerThreadSleepTime>500</queueConsumerThreadSleepTime>
+</configuration>
